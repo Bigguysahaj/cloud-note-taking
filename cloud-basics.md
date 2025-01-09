@@ -18,13 +18,13 @@ rapidly provisined and released with minimal management.
 
 
 ## Distributed vs Parallel Computing
-### Comparative Table:
+
+![image](https://github.com/user-attachments/assets/52084c6e-f543-48cd-8e64-f7d1da3dc786)
+
+
 | Aspect               | Parallel Computing    | Distributed Computing |
 |----------------------|-----------------------|------------------------|
 | Architecture         | Single system         | Multiple systems      |
 | Memory               | Shared                | Distributed           |
 | Scalability          | Limited               | Highly scalable       |
 | Fault Tolerance      | Low                   | High                  |
-
----
-![image](https://github.com/user-attachments/assets/52084c6e-f543-48cd-8e64-f7d1da3dc786)
